@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ManuscriptManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ManuscriptManager_jar</output-path>
+    <root id="archive" name="ManuscriptManager.jar">
+      <element id="module-output" name="ManuscriptManager" />
+    </root>
+  </artifact>
+</component>
